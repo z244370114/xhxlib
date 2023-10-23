@@ -12,21 +12,38 @@ dependencies:
     sdk: flutter
   plugin_platform_interface: ^2.0.2
 
+  #  网络请求
   dio: ^5.3.3
+  #  数据解析
   json2dart_safe: ^1.5.3
+  #  公共方法
   common_utils: ^2.1.0
+  #  本地缓存
   get_storage: ^2.1.1
+  #  应用提示
   fluttertoast: ^8.2.2
+  #  加载动画
   flutter_easyloading: ^3.0.5
+  #  屏幕适配
   flutter_screenutil: ^5.9.0
+  #  图库
   flutter_picker: ^2.1.0
+  #  刷新框架
   pull_to_refresh: ^2.0.0
+  #  开发框架
   get: ^4.6.5
+  #  友盟统计
   umeng_common_sdk: ^1.2.6
+  #  常用跳转工具类
   url_launcher: ^6.1.11
+  #  应用评分
   in_app_review: ^2.0.6
+  #  网页加载
   webview_flutter: ^4.2.2
+  #  手机权限
   permission_handler: ^11.0.0
+  #  谷歌广告
+  google_mobile_ads: ^3.1.0
 
 dev_dependencies:
   flutter_test:
